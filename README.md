@@ -55,4 +55,3 @@ npm run preview
 - Vite
 - CSS3 (with modern gradients and animations)
 - Local Storage API
-
